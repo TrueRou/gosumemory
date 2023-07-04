@@ -3,7 +3,6 @@ module github.com/l3lackShark/gosumemory
 go 1.16
 
 require (
-	github.com/Wieku/gosu-pp v0.0.0-20211202005932-7ae98709eece // indirect
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/elastic/go-windows v1.0.1
 	github.com/gorilla/websocket v1.4.2
