@@ -9,7 +9,6 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/k0kubun/pp"
 	"github.com/l3lackShark/gosumemory/memory"
 	"github.com/spf13/cast"
 )
